@@ -1,0 +1,5 @@
+Q1: 27feba05
+Q2: 3
+Q3: git pull - So I can download and merges the teammate's changes from GitHub into my local branch so I can push my changes afterward.
+Q4: No, because .gitignore doesn't remove the password from GitHub's history.
+Q5: git branch -d old-fix and git push origin --delete old-fix
